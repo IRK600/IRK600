@@ -1,7 +1,7 @@
 ###
 
-<h1 align="center">Full Stack & Blockchain(EVM, Solana with Unity Game)  Engineer</h1>
-
+<h1 align="center">Blockchain(EVM, Solana with Unity WebGL Game) Engineer</h1>
+<h2 align="center">"Of course" Full Stack Engineer(React, Vue, Angular)</h2>
 ###
 
 <br clear="both" />
