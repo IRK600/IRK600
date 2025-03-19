@@ -1,12 +1,26 @@
+<h1 align="center">This is Harry Potter</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Data%20Scientist/AI%20Engineer;Blockchain%20developer;Being%20sincere%20and%20diligent&center=true&width=380&height=65"></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harrypotter518" alt="harrypotter518" /> </p>
+
+<img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="350"/>
+
 ### About Me
+
 - 🧑🌱 proficient in AI/Machine Learning/Deep Learning/Data Science
+
 - 🧑‍💻 expertised in Blockchain/Web3 Technologies(Solidity, Rust, Smart Contracts, Web3, Defi apps, NFT projects...)
+
 - 🧑‍🔬 specialized in web frontend/backend developing 
+
 - 🧑🔭 talented in Android/iOS app developing 
+
 - 🧑👨‍💻 excellent communication skill
+
+
+
 ---
 ###
 ### Programming Tech & Tools
