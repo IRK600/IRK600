@@ -7,8 +7,6 @@
 
 ###
 
-<h2 align="center">Own Software Tools & Own Programming Languages</h2>
-
 ###
 ### Programming Tech & Tools
 | Category  | Tools |
