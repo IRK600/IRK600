@@ -3,7 +3,9 @@
 </p>
 
 <img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="350"/>
-
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=10&theme=gruvbox&no-frame=true"/>
+</a>
 ### About Me
 
 - 🧑🌱 proficient in AI/Machine Learning/Deep Learning/Data Science
