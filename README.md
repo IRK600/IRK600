@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;Unity%20WebGL/SOLANA%20Engineer;Blockchain%20developer;Being%20sincere%20and%20diligent&center=true&width=380&height=35"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;UnityWebGL%20ETHEREUM/SOLANA%20Engineer;Blockchain%20developer;Debuging%20ProblemSolving%&center=true&width=380&height=35"></a>
 </p>
 
 <img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="350"/>
