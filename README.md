@@ -18,7 +18,8 @@
 - 
 ### Favorite quote
 There's a big difference between knowing﻿ the name of something and knowing something. ― Richard Feynman
-
+### Show your support
+Please give my a ⭐ in my project.
 ---
 ###
 ### Programming Tech & Tools
