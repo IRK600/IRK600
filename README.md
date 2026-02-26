@@ -14,7 +14,7 @@
 
 - 🧑🔭 talented in Android/iOS app developing 
 
-- 🧑👨‍💻 excellent communication skill
+- 🧑👨‍💻 excellent communication skill, mentoring
 - 
 ### Favorite quote
 There's a big difference between knowing﻿ the name of something and knowing something. ― Richard Feynman
