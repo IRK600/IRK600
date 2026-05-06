@@ -4,7 +4,7 @@
 
 <img align="right" src='https://qtcinfotech.com/images/web-development/cms-website-development-service.gif' width="350"/>
 
-### About Me
+## About Me
 
 - 🧑🌱 proficient in AI/Machine Learning/Deep Learning/Data Science
 
